@@ -1,7 +1,7 @@
 midifire16
 ---------
 
-The midifire16 is an Arduino-compatible 16 channel solid state relay board with built-in RS-485 serial. It is the wired version of the [wifire16](https://github.com/propane-and-electrons/wifire16) - much more information on the SSR side of the board is available there.
+The midifire16 is an Arduino-compatible 16 channel solid state relay board with built-in MIDI IN and OUT ports. It is a wired version of the [wifire16](https://github.com/propane-and-electrons/wifire16) - much more information on the SSR side of the board is available there.
 
 The MIDI connection is compatible with any number of Arduino libraries, so the midifire16 can be used to control LED strip lighting or flame effects with any MIDI software.
 
