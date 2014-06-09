@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date 1/20/2014 6:21:46 PM
+EESchema Schematic File Version 2  date 6/8/2014 11:43:33 PM
 LIBS:shardy
 EELAYER 27 0
 EELAYER END

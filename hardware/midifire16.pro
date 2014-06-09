@@ -1,6 +1,6 @@
-update=1/18/2014 1:38:35 PM
+update=6/8/2014 11:43:31 PM
 version=1
-last_client=pcbnew
+last_client=eeschema
 [general]
 version=1
 [cvpcb]
@@ -8,16 +8,6 @@ version=1
 NetIExt=net
 [cvpcb/libraries]
 EquName1=devcms
-[eeschema]
-version=1
-LibDir=
-NetFmtName=
-RptD_X=0
-RptD_Y=100
-RptLab=1
-LabSize=60
-[eeschema/libraries]
-LibName1=shardy
 [pcbnew]
 version=1
 LastNetListRead=midifire16.net
@@ -38,4 +28,14 @@ BoardOutlineThickness=0.381
 ModuleOutlineThickness=0.381
 [pcbnew/libraries]
 LibDir=
+LibName1=shardy
+[eeschema]
+version=1
+LibDir=
+NetFmtName=
+RptD_X=0
+RptD_Y=100
+RptLab=1
+LabSize=60
+[eeschema/libraries]
 LibName1=shardy
